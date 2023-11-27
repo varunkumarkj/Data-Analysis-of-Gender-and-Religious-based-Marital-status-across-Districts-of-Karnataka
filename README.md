@@ -1,4 +1,4 @@
-# Data Analysis of Marital status based Gender and Religious coummunity across Districts of Karnataka
+# Data Analysis of Marital status based on Gender and Religious coummunity across Districts of Karnataka
 Using Excel For data Cleaning and Power Bi for visualization  and Analysis
 
 # Project Overview 
